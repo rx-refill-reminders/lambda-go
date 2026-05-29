@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/rx-refill-reminders/lambda-go/logs"
+	"github.com/rx-refill-reminders/go-lambda/logs"
 )
 
 type contextKey string
